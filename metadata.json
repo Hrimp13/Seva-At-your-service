@@ -1,0 +1,5 @@
+{
+  "name": "Seva: Local Services Manager",
+  "description": "A modern web application to manage local service providers, schedule appointments, and track expenses. Built with React, Firebase, and Tailwind CSS, it offers a seamless experience for both clients and service providers.",
+  "requestFramePermissions": []
+}
